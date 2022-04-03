@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Franper02
 - 👀 I’m interested in web programming and gaming.
-- 🌱 I’m currently learning CS50'S Web programming.
 - 💞️ I’m looking to collaborate on any project that involves front-end or back-end.
 - 📫 How to reach me: francoperdomo6@gmail.com
 
